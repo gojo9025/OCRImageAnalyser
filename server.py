@@ -150,7 +150,6 @@ from pyzbar.pyzbar import decode
 import base64
 
 # Windows tesseract path
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 app = Flask(__name__)
 
