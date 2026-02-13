@@ -1,0 +1,6 @@
+flask
+pytesseract
+pillow
+python-whois
+requests
+beautifulsoup4
